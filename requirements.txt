@@ -1,0 +1,3 @@
+freshrss_api>=2.0.3
+loguru>=0.7.3
+urllib3>=2.5.0
